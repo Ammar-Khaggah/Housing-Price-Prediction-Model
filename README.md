@@ -1,6 +1,6 @@
-# Housing-Price-Prediction-Model
+## Housing-Price-Prediction-Model
 
-# 🏡 Housing Price Prediction (King County)
+## 🏡 Housing Price Prediction (King County)
 
 A modular machine learning pipeline to predict housing prices in King County, WA using data-driven techniques and regression models.
 
